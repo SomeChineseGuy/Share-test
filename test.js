@@ -1,3 +1,3 @@
 const awesomeFun = () => {
-  console.log("This is awesome! ")
+  console.log("This is not Awesome :(! ")
 }
