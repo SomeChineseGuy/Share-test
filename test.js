@@ -3,6 +3,11 @@ const awesomeFun = () => {
 };
 
 // Still Awesome
-console.log("Updating db");
+
+console.log('Updating db');
+
+console.log("chris wrote this");
+
 
 console.log("Peter test");
+
