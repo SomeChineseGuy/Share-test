@@ -4,3 +4,5 @@ const awesomeFun = () => {
 
 // Still Awesome
 console.log('Updating db');
+
+console.log("chris wrote this");
