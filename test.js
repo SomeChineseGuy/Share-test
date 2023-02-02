@@ -8,6 +8,7 @@ console.log('Updating db');
 
 console.log("chris wrote this");
 
+console.log("jaewon test")
 
 console.log("Peter test");
 
