@@ -19,5 +19,6 @@ console.log('added login')
 console.log('Hi everyone! Again!')
 
 console.log("Canucks suck")
+console.log('Jerome likes icecream')
 
 console.log("ADD BOB ")
