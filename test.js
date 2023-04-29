@@ -23,4 +23,8 @@ console.log('Jerome likes icecream')
 
 console.log("ADD BOB ")
 
+<<<<<<< HEAD
 console.log("It's sunny? In April?")
+=======
+console.log('This is a nice day on a Friday!');
+>>>>>>> main
