@@ -22,3 +22,5 @@ console.log("Canucks suck")
 console.log('Jerome likes icecream')
 
 console.log("ADD BOB ")
+
+console.log('This is a nice day on a Friday!');
