@@ -26,3 +26,5 @@ console.log("ADD BOB ")
 console.log('This is a nice day on a Friday!');
 
 console.log("ADD DAN ")
+console.log("Mike is here")
+console.log('This is a nice day on a Friday!');
