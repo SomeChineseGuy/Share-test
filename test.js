@@ -30,3 +30,7 @@ console.log("Mike is here")
 console.log('This is a nice day on a Friday!');
 
 console.log("this is Ahmed");
+console.log("This is a new message");
+
+console.log("God it's humid out today");
+console.log("This is a new message for someone! If you're reading this from the old cohorts, Hi!");
