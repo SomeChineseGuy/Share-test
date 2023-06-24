@@ -28,3 +28,6 @@ console.log('This is a nice day on a Friday!');
 console.log("ADD DAN ")
 console.log("Mike is here")
 console.log('This is a nice day on a Friday!');
+
+
+console.log("God it's humid out today");
