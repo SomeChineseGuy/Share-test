@@ -33,3 +33,5 @@ console.log("This is a new message");
 
 console.log("God it's humid out today");
 console.log("This is a new message for someone! If you're reading this from the old cohorts, Hi!");
+
+console.log("Midterm-1");
