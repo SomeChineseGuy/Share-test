@@ -35,5 +35,6 @@ console.log("This is a new message");
 console.log("God it's humid out today");
 console.log("This is a new message for someone! If you're reading this from the old cohorts, Hi!");
 
+console.log("Nick's learning to pull");
 console.log("Midterm-1");
 console.log("If you are reading this, it is too late...you are learning pull requests😇");
