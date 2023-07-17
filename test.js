@@ -26,3 +26,11 @@ console.log("ADD BOB ")
 console.log('This is a nice day on a Friday!');
 
 console.log('Hello everyone! Sorry to bug you with this email. If you are reading this send me a message on Linkedin!');
+console.log("ADD DAN ")
+console.log("Mike is here")
+console.log('This is a nice day on a Friday!');
+
+console.log("This is a new message");
+
+console.log("God it's humid out today");
+console.log("This is a new message for someone! If you're reading this from the old cohorts, Hi!");
