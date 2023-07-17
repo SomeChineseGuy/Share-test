@@ -25,6 +25,7 @@ console.log("ADD BOB ")
 
 console.log('This is a nice day on a Friday!');
 
+console.log('Hello everyone! Sorry to bug you with this email. If you are reading this send me a message on Linkedin!');
 console.log("ADD DAN ")
 console.log("Mike is here")
 console.log('This is a nice day on a Friday!');
