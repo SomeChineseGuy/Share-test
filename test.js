@@ -24,3 +24,5 @@ console.log('Jerome likes icecream')
 console.log("ADD BOB ")
 
 console.log('This is a nice day on a Friday!');
+
+console.log('Hello everyone! Sorry to bug you with this email. If you are reading this send me a message on Linkedin!');
