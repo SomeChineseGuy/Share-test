@@ -37,3 +37,4 @@ console.log("This is a new message for someone! If you're reading this from the 
 
 console.log('I fixed the navbar');
 
+console.log('I fixed the body tag');
