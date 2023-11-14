@@ -41,4 +41,10 @@ console.log('I fixed the body tag');
 
 console.log('make an error');
 
+<<<<<<< HEAD
 console.log ("I was here!");
+=======
+console.log('Wazzzup');
+console.log('Hello Labbers!! From Tyson!');
+console.log("Hey it's been 6 months....")
+>>>>>>> main
