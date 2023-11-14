@@ -44,3 +44,5 @@ console.log('make an error');
 // Awesomest
 
 console.log("🐶💩");
+console.log('Hello Labbers!! From Tyson!');
+console.log("Hey it's been 6 months....")
