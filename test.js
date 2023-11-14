@@ -8,26 +8,26 @@ console.log('Updating db');
 
 console.log("chris wrote this");
 
-console.log("hey team")
+console.log("hey team");
 
-console.log("jaewon test")
+console.log("jaewon test");
 
 console.log("Peter test");
 
-console.log('added login')
+console.log('added login');
 
-console.log('Hi everyone! Again!')
+console.log('Hi everyone! Again!');
 
-console.log("Canucks suck")
-console.log('Jerome likes icecream')
+console.log("Canucks suck");
+console.log('Jerome likes icecream');
 
-console.log("ADD BOB ")
+console.log("ADD BOB ");
 
 console.log('This is a nice day on a Friday!');
 
 console.log('Hello everyone! Sorry to bug you with this email. If you are reading this send me a message on Linkedin!');
-console.log("ADD DAN ")
-console.log("Mike is here")
+console.log("ADD DAN ");
+console.log("Mike is here");
 console.log('This is a nice day on a Friday!');
 
 console.log("This is a new message");
@@ -41,5 +41,8 @@ console.log('I fixed the body tag');
 
 console.log('make an error');
 
+// Awesomest
+
+console.log("🐶💩");
 console.log('Hello Labbers!! From Tyson!');
 console.log("Hey it's been 6 months....")
