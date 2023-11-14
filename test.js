@@ -40,3 +40,5 @@ console.log('I fixed the navbar');
 console.log('I fixed the body tag');
 
 console.log('make an error');
+
+console.log ("I was here!");
