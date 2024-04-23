@@ -56,5 +56,7 @@ console.log('Hello Labbers!! From Tyson!');
 console.log("Hey it's been 6 months....")
 console.log('Rep from Tdot!');
 console.log("Man I'm sleepy as always!")
+console.log("Still doing the midterms.... Hey guys!")
+console.log("Push test");
 
 console.log("Whistler rules!");
