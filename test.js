@@ -60,3 +60,4 @@ console.log("Still doing the midterms.... Hey guys!")
 console.log("Push test");
 
 console.log("Whistler rules!");
+console.log("consistency is the key");
