@@ -60,3 +60,4 @@ console.log("Still doing the midterms.... Hey guys!")
 console.log("Push test");
 
 console.log("Whistler rules!");
+console.log("Hey guys, Alvin here - miss y'all hope you're all working a good job! Peace!");
