@@ -63,10 +63,7 @@ console.log("Whistler rules!");
 console.log("consistency is the key");
 console.log("wreck it ralph joined the server"); 
 console.log("Hey guys, Alvin here - miss y'all hope you're all working a good job! Peace!");
-<<<<<<< HEAD
 console.log('Still coding?');
 console.log("line 66");
-=======
 console.log('we are moving soo fast');
 console.log('Still coding?');
->>>>>>> 74466f7f2f3bd34c2309477d121ed7e0b40a729b
