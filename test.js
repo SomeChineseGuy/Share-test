@@ -67,5 +67,10 @@ console.log('Still coding?');
 console.log("line 66");
 console.log('we are moving soo fast');
 console.log('Still coding?');
+<<<<<<< HEAD
 
 console.log('They Just Peanut Butter and Jealous');
+=======
+console.log('still wating for GTA6')
+
+>>>>>>> main
