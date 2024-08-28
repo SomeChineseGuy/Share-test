@@ -66,5 +66,5 @@ console.log('Still coding?');
 console.log("line 66");
 console.log('we are moving soo fast');
 console.log('Still coding?');
-console.log('still wating for GTA6');
+console.log('still wating for GTA6')
 console.log("There's a solution to every challenge I face, and I will find it no matter how long it takes me!");
