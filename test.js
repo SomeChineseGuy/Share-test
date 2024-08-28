@@ -68,3 +68,7 @@ console.log('we are moving soo fast');
 console.log('Still coding?');
 console.log('still wating for GTA6')
 console.log("There's a solution to every challenge I face, and I will find it no matter how long it takes me!");
+console.log('🕺🏾🕺🏾 71 ');
+
+console.log("What's up all future labbers!!!! (I need a nap...)");
+console.log('Summer times === Good times!');
