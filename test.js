@@ -56,7 +56,6 @@ console.log('Hello Labbers!! From Tyson!');
 console.log("Hey it's been 6 months....")
 console.log('Rep from Tdot!');
 console.log("Man I'm sleepy as always!")
-console.log("Still doing the midterms.... Hey guys!")
 console.log("Push test");
 
 console.log("Whistler rules!");
@@ -67,4 +66,5 @@ console.log('Still coding?');
 console.log("line 66");
 console.log('we are moving soo fast');
 console.log('Still coding?');
-console.log('still wating for GTA6')
+console.log('still wating for GTA6');
+console.log("There's a solution to every challenge I face, and I will find it no matter how long it takes me!");
