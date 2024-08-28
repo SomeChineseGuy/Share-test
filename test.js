@@ -70,3 +70,4 @@ console.log('Still coding?');
 console.log('still wating for GTA6')
 
 console.log("What's up all future labbers!!!! (I need a nap...)");
+console.log('Summer times === Good times!');
