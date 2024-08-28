@@ -68,3 +68,5 @@ console.log("line 66");
 console.log('we are moving soo fast');
 console.log('Still coding?');
 console.log('still wating for GTA6')
+
+console.log("What's up all future labbers!!!! (I need a nap...)");
