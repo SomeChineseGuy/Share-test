@@ -32,6 +32,7 @@ console.log("ADD DAN ");
 console.log("Mike is here");
 console.log("This is a nice day on a Friday!");
 
+console.log("this is Ahmed");
 console.log("This is a new message");
 
 console.log("God it's humid out today");
