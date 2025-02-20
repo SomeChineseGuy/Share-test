@@ -77,4 +77,4 @@ console.log('I will be back');
 console.log("My spoon is to big :(")
 console.log('Sometimes when i close my eyes i cant see');
 console.log('gello world');
-console.log('What is up? Time for Midterms!')
+console.log('What is up? Time for Midterms!');
