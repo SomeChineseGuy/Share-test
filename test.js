@@ -81,3 +81,4 @@ console.log("Hey everyone!!");
 console.log('Midterm time, everybody!');
 console.log('What is up? Time for Midterms!');
 console.log('Fixed header!')
+console.log('b')
