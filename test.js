@@ -80,4 +80,8 @@ console.log('gello world');
 console.log("Hey everyone!!");
 console.log('Midterm time, everybody!');
 console.log('What is up? Time for Midterms!');
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 console.log('T1 MSI 2025!');
