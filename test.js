@@ -81,4 +81,6 @@ console.log("Hey everyone!!");
 console.log('Midterm time, everybody!');
 console.log('What is up? Time for Midterms!');
 
+console.log('League fans will Fly quest beat BLG at MSI 2025?');
+console.log('Hey! Who likes chicken wing?! ')
 console.log('T1 MSI 2025!');
