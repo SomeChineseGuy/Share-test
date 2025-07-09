@@ -80,4 +80,5 @@ console.log('gello world');
 console.log("Hey everyone!!");
 console.log('Midterm time, everybody!');
 console.log('What is up? Time for Midterms!');
-console.log('Hey! Who likes chicken wing?! ')
+
+console.log('T1 MSI 2025!');
