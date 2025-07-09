@@ -80,3 +80,4 @@ console.log('gello world');
 console.log("Hey everyone!!");
 console.log('Midterm time, everybody!');
 console.log('What is up? Time for Midterms!');
+console.log("Hang in there — it won’t get easier, but you’ll get stronger.")
